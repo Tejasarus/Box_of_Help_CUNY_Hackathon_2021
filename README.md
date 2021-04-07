@@ -1,4 +1,5 @@
-# Box_of_Help_CUNY_Hackathon_2021
+**Box of Help**
+Winner in the category of "Best Hardware Hack" in the CUNY 2021 Hackathon
 
 Check out the devpost submission here: https://devpost.com/software/box-of-help
 
