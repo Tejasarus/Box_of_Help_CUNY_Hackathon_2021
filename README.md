@@ -1,4 +1,5 @@
 **Box of Help**
+
 Winner in the category of "Best Hardware Hack" in the CUNY 2021 Hackathon
 
 Check out the devpost submission here: https://devpost.com/software/box-of-help
@@ -28,6 +29,7 @@ Learning how to use an API and embed it with my code was a daunting task, but I�
 But the biggest takeaway was how much fun I had while messing around with the hardware. It felt like I was playing with LEGOS again, but the pieces were much cooler this time around. Seeing a visual result of something I’ve worked on for hours gave me a feeling of satisfaction I’ve never felt before. This project definitely made me want to work on more hardware-based projects in the future.
 
 **Where will the Box of Help go next?**
+
 I know for a fact that I can significantly downside the size of this device. It’s not huge (a little bigger than a google home mini), but upon doing some research, there are some Wifi based microcontrollers (such as the ESP8266MOD) that are significantly smaller and can do the same tasks. Another thing that could be improved on is the notification system. If you were at school, work, or outside of the house in general, it would be pointless to receive a notification. So to combat this, a GPS system could be implemented, where the position of the “Box of Help” would be constantly tracked, and when a call for help would be called, it would send a notification only if the members of that household were within a 100ft radius of the device. There could also be a setting to toggle notifications on despite being out of the "get a notification" radius for people who want to get notifications no matter where they are.
 
 This device doesn’t only have to be restricted to the elderly calling for help. Another use case I could see my family using this would be when the person cooking has to tell everyone that the food is ready. Instead, the person cooking could just tell the device to call everyone to the dining room to eat, and creating more than one voice command is simple, since all of the framework is in place. The device could also be used as a smart home device, and could control smart home devices such as lights and blinds. The sky’s the limit, and this hackathon made me fully realize that.
