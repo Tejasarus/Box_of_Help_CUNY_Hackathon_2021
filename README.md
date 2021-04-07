@@ -2,6 +2,8 @@
 
 Check out the devpost submission here: https://devpost.com/software/box-of-help
 
+Video demo: https://www.youtube.com/watch?v=5SW8xD-G8Uk
+
 **Inspiration**
 
 The other day my mom went to my grandparents’ room to call my grandma for lunch only to see her on the floor and barely conscious. My grandmother had been trying to get a glass of water on the other side of the room without her walker, causing her to stumble and fall. When we asked her why she decided to get herself water instead of calling for help, she said, “I tried to, but no one heard me”. After that incident I was determined to do something so that a similar incident, that could yield a more devastating outcome, would never happen again.
